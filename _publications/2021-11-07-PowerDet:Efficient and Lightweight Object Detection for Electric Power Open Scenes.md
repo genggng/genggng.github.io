@@ -1,7 +1,7 @@
 ---
-title: "PowerDet: Efficient and Lightweight Object Detection for Electric Power Open Scenes"
+title: "PowerDet:Efficient and Lightweight Object Detection for Electric Power Open Scenes"
 collection: publications
-permalink: /publication/2021-11-07-PowerDet: Efficient and Lightweight Object Detection for Electric Power Open Scenes
+permalink: /publication/2021-11-07-PowerDet:Efficient and Lightweight Object Detection for Electric Power Open Scenes
 excerpt: 'There are problems with the schemes in open electric power scenes, e.g., only able to detect single category, low detection accuracy of multi-scale objects, and difficulty in deploying models on mobile devices. To address the challenges mentioned above, we propose an object detection model, named PowerDet. It is able to detect 9 different types of power facilities efficiently with low cost.'
 date: 2021-11-07
 venue: 'CCIS2021'
