@@ -9,53 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-need time to modify it !
 
-Education
+教育背景
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* 北京邮电大学，博士生                                                 2021/09 – 至今 
+  * 教育部信息网络工程研究实验室（计算机视觉与模型轻量化方向）推免直博生               
+* 北京邮电大学，本科生                                                 2017/09 – 2021/06
+  * 计算机学院 数据科学与大数据技术专业
+  * GPA：90.66/100(排名3/63)
+
+竞赛经历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 第十一届全国大学生数学竞赛 北京市一等奖                             2019/10
+* 二零一九年高教社杯全国大学生数学建模竞赛 北京市二等奖                2019/10
+* 第五届中国互联网+大学生创新创业大赛（北京赛区）三等奖                2019/08  
+* 第九届全国大学生电子商务“创新、创意及创业”挑战赛（北京赛区）一等奖    2019/07  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+
+项目经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 基于深度学习的感染性角膜炎诊断系统                              2021/10  
+根据北京同仁医院提供的近三十年感染性角膜炎病人的角膜裂隙灯图像，整理出数据集。搭建两阶段分类模型，能够直接从病人的角膜裂隙灯图像，诊断出病人所患的感染性角膜炎类型（细菌型、真菌型、阿米巴型、病毒型）。模型准确度能够达到85%的，远高于临床医生肉眼诊断的49%。
+* 基于深度学习电力场景设施实体识别系统的设计与实现                              2021/05  
+独立制作出电力设施实体数据集，在FCOS基础上改进得到的目标检测算法模型，在该数据集上达到了86.8%的AP50，并设计消融实验证明了改进方案的有效性。 实现的实时性检测安卓APP，在高通骁龙845处理上达到了30帧/秒的速度；实现的高精度检测Web程序，实现对图片和视频的高精度检测。最终系统投入到国网河北电力的输变电辅助运维当中。
+* 基于C++ 实现的操作系统原型系统                                               2020/09  
+使用C++语言来模拟实现了一个操作系统，包含进程管理、内存管理、文件管理三个主要功能。整个系统能够以文件管理系统为主体，在提供各项文件操作命令的同时，后台能够模拟进行相应命令的进程的调度和内存分配。
 
-Publications
+
+发表论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
