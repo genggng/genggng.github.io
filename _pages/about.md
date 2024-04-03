@@ -14,7 +14,9 @@ Hi! I am Wang Shigeng, a computer science PhD student of BUPT, interested in com
 
 News
 ======
+
 + 2023.01: A second author paper on  ML for fungal keratitis has been accepted to eBioMedicine (**Part of The Lancet**).
++ 2022.11: I worked with SenseTime OpenPPL to implement a user-friendly model quantification tool  named [ppq_tools](https://github.com/openppl-public/ppq_tools).
 + 2021.10: A first author paper on light-weight object detection has been accepted to CCIS 2021.
 
 
