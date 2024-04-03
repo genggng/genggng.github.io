@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+教育背景
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 北京邮电大学，博士生                                                 2021/09 – 至今 
+  * 教育部信息网络工程研究实验室（计算机视觉与模型轻量化方向）推免直博生               
+* 北京邮电大学，本科生                                                 2017/09 – 2021/06
+  * 计算机学院 数据科学与大数据技术专业
+  * GPA：90.66/100(排名2/63)
+
+竞赛经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 第十一届全国大学生数学竞赛 北京市一等奖                             2019/10
+* 二零一九年高教社杯全国大学生数学建模竞赛 北京市二等奖                2019/10
+* 第五届中国互联网+大学生创新创业大赛（北京赛区）三等奖                2019/08  
+* 第九届全国大学生电子商务“创新、创意及创业”挑战赛（北京赛区）一等奖    2019/07  
 
-Publications
+
+项目经历
+======
+* 基于PPQ离线量化工具完成视觉模型多平台部署                               2022/07-2022/10  
+该项目为“开源之夏2022”个人任务，本人在商汤PPQ工具链导师的指导下，针对图像分类，目标检测，实例分割共8个视觉模型，在NVIDIA GPU(TensorRT)、Intel CPU（OpenVINO）、ARM CPU（Ncnn）以及Snapdragon DSP(SNPE) 4种硬件平台和推理后端上，进行模型INT8量化部署，并与FP32对齐精度。相关代码文档已并入OpenPPL官方仓库 https://github.com/openppl-public/ppq_tools。
+* 网约车平台司机伪造证件辨别算法与辅助审核系统实现             2022/03-2022/05
+网约车平台“阳光出行”实习项目，个人担任算法实习生，针对注册司机上传的多种证件图片，辨别是否为伪造图像（翻拍，打印等）以减轻审核压力。为了解决伪造图片的类间相似性和类内差异性，使用多代理分类网络，对伪造和非伪造类设置多个类中心，最终达到了98.8%的模型准确度。相关模型已上线公司用户信息审核平台投入使用。
+*	基于深度学习的感染性角膜炎诊断技术研究                       2021/10-2022/02
+与北京同仁医院合作，能够直接从病人的角膜裂隙灯图像，诊断出病人所患的感染性角膜炎类型。模型准确度能够达到89%，远高于临床医生肉眼诊断的45%。模型主要从可解释的角度出发，分析不同类型角膜炎的可能的关键病灶区域以及所具备的病理特征，为医生的临床诊断提供依据。
+
+
+发表论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
