@@ -50,10 +50,9 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 </div>
 </div>
 
+- [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
 - [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
 - [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
-- [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
-
 - [Development and Multi-Center Validation of a Machine Learning Model for Early Detection of Fungal Keratitis](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00003-8/fulltext), Zhenyu Wei, **Shigeng Wang**, Zhiqun Wang, et al., eBioMedicine, 2023.
 
 - [PowerDet: Efficient and Lightweight Object Detection for Electric Power Open Scenes](https://ieeexplore.ieee.org/document/9754678), **Shigeng Wang**, Zhonghong Ou#, Meina Song, IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS 2021).
@@ -84,4 +83,4 @@ Reviewer:  ICML 2026, PRCV 2025.
 # 💻 Experieces
 
 - *2024.04 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Researcher Intern, supervised by Anbang Yao.
-- *2023.10 - 2024.03*, QCraft, China. <img src='images/qcraft_2.jpeg' style='width: 3.3em;'> Research Intern.
+- *2023.10 – 2024.03*, QCraft, China. <img src='images/qcraft_2.jpeg' style='width: 3.3em;'> Research Intern, focusing on autonomous driving perception.
