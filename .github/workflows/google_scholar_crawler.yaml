@@ -1,0 +1,50 @@
+name: Get Citation Data
+
+on:
+  page_build:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: google_scholar_crawler/requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r google_scholar_crawler/requirements.txt
+
+      - name: Run crawler
+        run: |
+          python google_scholar_crawler/main.py
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+      - name: Commit results to google-scholar-stats branch
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+          # 将 results 目录内容更新到目标分支
+          git fetch origin google-scholar-stats || true
+          git switch --orphan google-scholar-stats
+
+          rm -rf .
+          cp -r google_scholar_crawler/results/* .
+
+          git add *.json || true
+          git commit -m "Updated Citation Data" || exit 0
+          git push origin google-scholar-stats --force
