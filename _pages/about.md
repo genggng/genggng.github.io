@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shigeng Wang(王世耿), a Ph.D. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/'>Zhonghong Ou</a>. I obtained my Bachelor’s degree from BUPT and continued my Ph.D. studies at BUPT through the direct doctoral track, with an expected graduation in June 2026.
+Hi! I am Shigeng Wang (王世耿), a Ph.D. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/'>Zhonghong Ou</a>. I obtained my Bachelor’s degree from BUPT and continued my Ph.D. studies at BUPT through the direct doctoral track, with an expected graduation in June 2026.
 
 I am currently conducting research at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as an AI Research Intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. My research focuses on large language model quantization, compression, and hardware-efficient acceleration. More broadly, my interests lie in computer vision and efficient deep learning, with particular emphasis on model quantization and lightweight inference.
 
 # 🔥 News
 
-- *2026.01*: One first-author paper on post-training quantization for large language models was accepted to **ICLR 2026**.
+- *2026.01*: A first-author paper (SliderQuant) on post-training quantization for large language models was accepted to **ICLR 2026**.
 - *2026.01*: Three first-author papers were accepted to **ICASSP 2026**.
+- *2025.11*: The <a href='https://cherry.pcelves.com/'>Yingtao App</a>, an AI PC intelligent assistant powered by SliderQuant, was released by Intel, with me as a core developer.
 - *2023.01*: A co-authored paper on machine learning for fungal keratitis diagnosis was accepted to **eBioMedicine**.
 - *2022.11*: Contributed to the development of <a href='https://github.com/OpenPPL/ppq_tools'>ppq_tools</a>, a user-friendly model quantization toolkit.
 - *2021.10*: A first-author paper on lightweight object detection was accepted to **CCIS 2021**.
