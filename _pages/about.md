@@ -66,7 +66,6 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 
 # 🎖 Honors and Awards
 
-- *2023.07*: BUPT Excellent Ph.D. Students Foundation.
 - *2022.10*: First-Class Scholarship, Beijing University of Posts and Telecommunications.  
 - *2022.06*: BUPT Excellent Ph.D. Students Foundation.  
 - *2021.06*: Outstanding Graduate of Beijing Municipality.  
