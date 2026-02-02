@@ -68,11 +68,11 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 
 - *2022.10*: First-Class Scholarship, Beijing University of Posts and Telecommunications.  
 - *2022.06*: BUPT Excellent Ph.D. Students Foundation.  
-- *2021.06*: Outstanding Graduate of Beijing Municipality.  
-- *2020.09*: First Prize, National College Student Mathematics Competition.  
-- *2020.07*: First Prize, National College Student E-Commerce “Innovation, Creation, Entrepreneurship” Challenge.  
-- *2019.09*: Second Prize, China Undergraduate Mathematical Contest in Modeling.  
-- *2018.10*: National Encouragement Scholarship.
+- *2021.06*: Outstanding Graduate of Beijing.  
+- *2020.09*: First Prize, National Undergraduate Mathematics Competition.  
+- *2020.07*: First Prize, China National Undergraduate E-Commerce Innovation, Creativity and Entrepreneurship Challenge.  
+- *2019.09*: Second Prize, China Undergraduate Mathematical Modeling Competition.  
+- *2018.10*: National Encouragement Scholarship (China).
 
 # 💬 Academic service
 
@@ -82,5 +82,5 @@ Reviewer:  ICML 2026, PRCV 2025.
 
 # 💻 Experieces
 
-- *2024.04 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Researcher Intern, supervised by Anbang Yao.
+- *2024.04 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
 - *2023.10 – 2024.03*, QCraft, China. <img src='images/qcraft_2.jpeg' style='width: 3.3em;'> Research Intern, focusing on autonomous driving perception.
