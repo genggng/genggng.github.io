@@ -23,6 +23,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 # 🔥 News
 
+- *2026.02*: A co-authored paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to **CVPR 2026**.
 - *2026.01*: A first-author paper (SliderQuant) on post-training quantization for large language models was accepted to **ICLR 2026**.
 - *2026.01*: Three first-author papers were accepted to **ICASSP 2026**.
 - *2025.11*: The <a href='https://cherry.pcelves.com/'>Yingtao App</a>, an AI PC intelligent assistant powered by SliderQuant, was released by Intel, with me as a core developer.
@@ -41,7 +42,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 [SliderQuant: Accurate Post-Training Quantization for Large Language Models](https://openreview.net/pdf?id=YNqZqw4fLT)
 
-**Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Zhonghong Ou, Anbang Yao#.  
+**Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Zhonghong Ou, Anbang Yao#. International Conference on Learning Representations (ICLR), 2026.  
 
 <!-- [**Code**](https://github.com/deep-optimization/ScaleKD) **|** [**Project**](https://deep-optimization.github.io/scalekd/) -->
 [**Code**](#) **|** [**Project**](#) *(to be released)*
@@ -51,12 +52,13 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 </div>
 </div>
 
-- [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
-- [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
-- [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026).
-- [Development and Multi-Center Validation of a Machine Learning Model for Early Detection of Fungal Keratitis](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00003-8/fulltext), Zhenyu Wei, **Shigeng Wang**, Zhiqun Wang, et al., eBioMedicine, 2023.
+- [Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models](#). Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu and Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+- [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](#). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
+- [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](#). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
+- [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
+- [Development and Multi-Center Validation of a Machine Learning Model for Early Detection of Fungal Keratitis](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00003-8/fulltext). Zhenyu Wei, **Shigeng Wang**, Zhiqun Wang, et al. eBioMedicine, 2023.
 
-- [PowerDet: Efficient and Lightweight Object Detection for Electric Power Open Scenes](https://ieeexplore.ieee.org/document/9754678), **Shigeng Wang**, Zhonghong Ou#, Meina Song, IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS 2021).
+- [PowerDet: Efficient and Lightweight Object Detection for Electric Power Open Scenes](https://ieeexplore.ieee.org/document/9754678). **Shigeng Wang**, Zhonghong Ou#, Meina Song. IEEE 7th International Conference on Cloud Computing and Intelligent Systems (CCIS), 2021.
 
 # 📖 Educations
 
