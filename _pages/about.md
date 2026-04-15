@@ -44,7 +44,6 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 **Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Zhonghong Ou, Anbang Yao#. International Conference on Learning Representations (ICLR), 2026.  
 
-<!-- [**Code**](https://github.com/deep-optimization/ScaleKD) **|** [**Project**](https://deep-optimization.github.io/scalekd/) -->
 [**Code**](https://github.com/deep-optimization/SliderQuant) **|** [**Project**](https://deep-optimization.github.io/sliderquant/)
 
 SliderQuant is a post-training quantization framework that adaptively accounts for layer-wise sensitivity in large language models, achieving strong performance gains under ultra-low-bit weight and weight-activation quantization.
@@ -52,7 +51,7 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 </div>
 </div>
 
-- [Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models](#). Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu and Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+- [Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models](https://arxiv.org/abs/2604.12391). Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu and Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
 - [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](#). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](#). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](#), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
