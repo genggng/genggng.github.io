@@ -44,7 +44,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 **Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Zhonghong Ou, Anbang Yao#. International Conference on Learning Representations (ICLR), 2026.  
 
-[**Code**](https://github.com/deep-optimization/SliderQuant) **|** [**Project**](https://deep-optimization.github.io/sliderquant/)
+<p><a href="https://github.com/deep-optimization/SliderQuant"><strong>Code</strong></a> | <a href="https://deep-optimization.github.io/sliderquant/"><strong>Project</strong></a></p>
 
 SliderQuant is a post-training quantization framework that adaptively accounts for layer-wise sensitivity in large language models, achieving strong performance gains under ultra-low-bit weight and weight-activation quantization.
 
