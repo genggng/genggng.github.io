@@ -40,7 +40,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/sliderquant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SliderQuant: Accurate Post-Training Quantization for Large Language Models](https://openreview.net/pdf?id=YNqZqw4fLT)
+[SliderQuant: Accurate Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2603.25284)
 
 **Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Zhonghong Ou, Anbang Yao#. International Conference on Learning Representations (ICLR), 2026.  
 
