@@ -52,7 +52,7 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 </div>
 
 - [Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models](https://arxiv.org/abs/2604.12391). Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu and Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
-- [Dynabits: Token-Aware Weight–Activation Quantization for Large Vision–Language Models](https://ieeexplore.ieee.org/document/11461750). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
+- [Dynabits: Token Aware Weight-Activation Quantization for Large Vision-Language Models](https://ieeexplore.ieee.org/document/11461750). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](https://ieeexplore.ieee.org/document/11463846). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](https://ieeexplore.ieee.org/document/11464487), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [Development and Multi-Center Validation of a Machine Learning Model for Early Detection of Fungal Keratitis](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00003-8/fulltext). Zhenyu Wei, **Shigeng Wang**, Zhiqun Wang, et al. eBioMedicine, 2023.
