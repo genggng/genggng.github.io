@@ -31,6 +31,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Inject Cloudflare Analytics token
+        run: |
+          sed -i "s/__CF_TOKEN_PLACEHOLDER__/${{ secrets.CF_ANALYTICS_TOKEN }}/" _includes/head/custom.html
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
