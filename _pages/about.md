@@ -23,7 +23,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 # 🔥 News
 
-- *2026.05*: A first-author paper (CAT-Q) on cost-efficient and accurate ternary quantization for LLMs is accepted to **ICML 2026** as **Spotlight** (Top 2.2%).
+- *2026.05*: A first-author paper (CAT-Q) on cost-efficient 1.58-bit quantization for LLMs is accepted to **ICML 2026** as **Spotlight** (Top 2.2%).
 - *2026.02*: A co-authored paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to **CVPR 2026**.
 - *2026.01*: A first-author paper (SliderQuant) on post-training quantization for large language models was accepted to **ICLR 2026**.
 - *2026.01*: Three first-author papers were accepted to **ICASSP 2026**.
