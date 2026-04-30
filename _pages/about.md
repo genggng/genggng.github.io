@@ -66,7 +66,20 @@ SliderQuant is a post-training quantization framework that adaptively accounts f
 </div>
 </div>
 
-- [Chain-of-Models Pre-training: Rethinking Training Acceleration of Foundation Models](https://arxiv.org/abs/2604.12391). Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu and Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/compt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chain-of-Models Pre-training: Rethinking Training Acceleration of Vision Foundational Models](https://arxiv.org/pdf/2411.06786)
+
+Jiawei Fan, **Shigeng Wang**, Chao Li, Xiaolong Liu, Anbang Yao#. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+
+<p><a href="https://github.com/deep-optimization/CoM-PT"><strong>Code</strong></a> | <a href="https://github.com/deep-optimization/CoM-PT"><strong>Project</strong></a></p>
+
+This is the first work that unlocks the training efficiency scaling favorably with the VFM family size.
+
+</div>
+</div>
+
 - [Dynabits: Token Aware Weight-Activation Quantization for Large Vision-Language Models](https://ieeexplore.ieee.org/document/11461750). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [VARDet: Visual Autoregressive Multi-Scale Prediction and CLIP-Guided Semantics for UAV Small-Object Detection](https://ieeexplore.ieee.org/document/11463846). **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
 - [Foreground-Enhanced Coarse-to-Fine Detection for UAV Small Objects](https://ieeexplore.ieee.org/document/11464487), **Shigeng Wang**, Zhonghong Ou#, Hongxing Zhang. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
