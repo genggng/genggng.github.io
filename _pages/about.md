@@ -23,6 +23,7 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 
 # 🔥 News
 
+- *2026.05*: A first-author paper (CAT-Q) on cost-efficient and accurate ternary quantization for LLMs is accepted to **ICML 2026** as **Spotlight** (Top 2.2%).
 - *2026.02*: A co-authored paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to **CVPR 2026**.
 - *2026.01*: A first-author paper (SliderQuant) on post-training quantization for large language models was accepted to **ICLR 2026**.
 - *2026.01*: Three first-author papers were accepted to **ICASSP 2026**.
@@ -36,6 +37,20 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 (* Equal contribution, # Corresponding author)
 
 ## Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight (Top 2.2%)</div><img src='images/cat-q.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](#)
+
+**Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Anbang Yao#. International Conference on Machine Learning (ICML), 2026. **Spotlight** (Top 2.2%).
+
+<p><a href="#"><strong>Code</strong></a> | <a href="#"><strong>Project</strong></a></p>
+
+CAT-Q is a post-training ternary quantization framework that compresses LLMs without costly quantization-aware training. Using just 512 calibration samples, it achieves competitive performance to BitNet 1.58-bit v1/v2 trained on 100B tokens—yielding an approximately 100,000× reduction in quantization cost. CAT-Q further demonstrates the first-ever ternary quantization of large pre-trained LLMs with up to 235B parameters within 60 hours on 8 A100 GPUs.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/sliderquant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
