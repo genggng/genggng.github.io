@@ -41,11 +41,11 @@ I am currently conducting research at Intel Labs China <img src='images/intel.jp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Oral (Top 0.7%)</div><img src='images/cat-q.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](#)
+[CAT-Q: Cost-efficient and Accurate Ternary Quantization for LLMs](https://arxiv.org/abs/2606.26650)
 
 **Shigeng Wang\***, Chao Li\*, Yangyuxuan Kang, Jiawei Fan, Anbang Yao#. International Conference on Machine Learning (ICML), 2026. **Oral** (Top 0.7%).
 
-<p><a href="#"><strong>Code</strong></a> | <a href="#"><strong>Project</strong></a></p>
+<p><a href="https://github.com/IntelChina-AI/BitTern"><strong>Code</strong></a> | <a href="https://github.com/IntelChina-AI/BitTern"><strong>Project</strong></a></p>
 
 CAT-Q is a post-training ternary quantization framework that compresses LLMs without costly quantization-aware training. Using just 512 calibration samples, it achieves competitive performance to BitNet 1.58-bit v1/v2 trained on 100B tokens—yielding an approximately 100,000× reduction in quantization cost. CAT-Q further demonstrates the first-ever ternary quantization of large pre-trained LLMs with up to 235B parameters within 60 hours on 8 A100 GPUs.
 
