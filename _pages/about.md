@@ -105,7 +105,7 @@ This is the first work that unlocks the training efficiency scaling favorably wi
 
 # 💬 Academic service
 
-Reviewer:  ICML 2026, PRCV 2025.
+Reviewer: ICLR 2026, ICML 2026, NeurIPS 2026, AAAI 2027.
 
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
