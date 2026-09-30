@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shigeng Wang (王世耿), a Ph.D. student in Computer Science at Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/'>Zhonghong Ou</a>. I obtained my Bachelor’s degree from BUPT and continued my Ph.D. studies at BUPT through the direct doctoral track, with an expected graduation in June 2026.
+Hi! I am Shigeng Wang (王世耿), a Ph.D. graduate in Computer Science from Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/'>Zhonghong Ou</a>. I obtained my Bachelor’s degree from BUPT and continued my Ph.D. studies at BUPT through the direct doctoral track, and graduated in September 2026.
 
 I am currently conducting research at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'> as an AI Research Intern, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. My research focuses on large language model quantization, compression, and hardware-efficient acceleration. More broadly, my interests lie in computer vision and efficient deep learning, with particular emphasis on model quantization and lightweight inference.
 
@@ -104,7 +104,7 @@ This is the first work that unlocks the training efficiency scaling favorably wi
 
 # 📖 Educations
 
-- *2021.09 – 2026.06*, Ph.D. student in Computer Science, Beijing University of Posts and Telecommunications (BUPT).
+- *2021.09 – 2026.09*, Ph.D. student in Computer Science, Beijing University of Posts and Telecommunications (BUPT).
 
 - *2017.09 – 2021.06*, B.Eng. in Data Science and Big Data Technology, Beijing University of Posts and Telecommunications (BUPT).
 
