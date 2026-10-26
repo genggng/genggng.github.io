@@ -19,11 +19,11 @@ redirect_from:
 
 Hi! I am Shigeng Wang (王世耿), a Ph.D. graduate in Computer Science from Beijing University of Posts and Telecommunications (BUPT), supervised by <a href='https://teacher.bupt.edu.cn/ouzhonghong/zh_CN/'>Zhonghong Ou</a>. I obtained my Bachelor’s degree from BUPT and continued my Ph.D. studies at BUPT through the direct doctoral track, and graduated in September 2026.
 
-I am currently an AI Research Engineer / Scientist at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'>, working with <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. My research focuses on large language model quantization, compression, and hardware-efficient acceleration. More broadly, my interests lie in computer vision and efficient deep learning, with particular emphasis on model quantization and lightweight inference.
+I am currently an AI Research Engineer / Scientist at Intel Labs China <img src='images/intel.jpg' style='width: 2.5em;'>, supervised by <a href='https://yaoanbang.github.io/'>Anbang Yao</a>. My research focuses on large language model quantization, compression, and hardware-efficient acceleration. More broadly, my interests lie in computer vision and efficient deep learning, with particular emphasis on model quantization and lightweight inference.
 
 # 🔥 News
 
-- *2026.10*: Joined Intel Labs China as a full-time **AI Research Engineer / Scientist**, working with Anbang Yao.
+- *2026.10*: Joined Intel Labs China as a full-time **AI Research Engineer / Scientist**, supervised by Anbang Yao.
 - *2026.08*: A first-author preprint (ScaleQ-1.58) on cost-efficient 1.58-bit post-training quantization of reasoning LLMs is released on **arXiv**.
 - *2026.05*: A first-author paper (CAT-Q) on cost-efficient 1.58-bit quantization for LLMs is accepted to **ICML 2026** as **Oral** (Top 0.7%).
 - *2026.02*: A co-authored paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to **CVPR 2026**.
@@ -127,6 +127,6 @@ Reviewer: ICLR 2026, ICML 2026, NeurIPS 2026, AAAI 2027.
 
 # 💻 Experience
 
-- *2026.10 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> AI Research Engineer / Scientist, working with Anbang Yao.
+- *2026.10 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> AI Research Engineer / Scientist, supervised by Anbang Yao.
 - *2024.04 – 2026.10*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Research Intern, supervised by Anbang Yao.
 - *2023.10 – 2024.03*, QCraft, China. <img src='images/qcraft_2.jpeg' style='width: 3.3em;'> Research Intern, focusing on autonomous driving perception.
