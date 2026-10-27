@@ -23,7 +23,6 @@ I am currently an AI Research Engineer / Scientist at Intel Labs China <img src=
 
 # 🔥 News
 
-- *2026.10*: Joined Intel Labs China as a full-time **AI Research Engineer / Scientist**, supervised by Anbang Yao.
 - *2026.08*: A first-author preprint (ScaleQ-1.58) on cost-efficient 1.58-bit post-training quantization of reasoning LLMs is released on **arXiv**.
 - *2026.05*: A first-author paper (CAT-Q) on cost-efficient 1.58-bit quantization for LLMs is accepted to **ICML 2026** as **Oral** (Top 0.7%).
 - *2026.02*: A co-authored paper Chain-of-Models Pre-training (CoM_PT), the first work for the lossless training acceleration at the foundation model family level, is accepted to **CVPR 2026**.
