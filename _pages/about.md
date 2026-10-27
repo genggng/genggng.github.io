@@ -127,5 +127,5 @@ Reviewer: ICLR 2026, ICML 2026, NeurIPS 2026, AAAI 2027.
 
 # 💻 Experience
 
-- *2024.04 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> Focusing on LLM quantization, compression, and hardware-efficient acceleration, supervised by Anbang Yao.
+- *2024.04 - now*, Intel Labs, China. <img src='images/intel.jpg' style='width: 2.5em;'> LLM quantization, compression, and hardware acceleration, supervised by Anbang Yao.
 - *2023.10 – 2024.03*, QCraft, China. <img src='images/qcraft_2.jpeg' style='width: 3.3em;'> Research Intern, focusing on autonomous driving perception.
